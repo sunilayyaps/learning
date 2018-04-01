@@ -17,10 +17,10 @@
 
 #### Big O efficiency:
 
-Indexing: Linear array: O(1), Dynamic array: O(1)
-Search: Linear array: O(n), Dynamic array: O(n)
-Optimized Search: Linear array: O(log n), Dynamic array: O(log n)
-Insertion: Linear array: n/a Dynamic array: O(n)
+- Indexing: Linear array: O(1), Dynamic array: O(1)
+- Search: Linear array: O(n), Dynamic array: O(n)
+- Optimized Search: Linear array: O(log n), Dynamic array: O(log n)
+- Insertion: Linear array: n/a Dynamic array: O(n)
 
 ## Linked List 
 
@@ -44,10 +44,10 @@ Insertion: Linear array: n/a Dynamic array: O(n)
 
 #### Big O efficiency:
 
-Indexing: Linked Lists: O(n)
-Search: Linked Lists: O(n)
-Optimized Search: Linked Lists: O(n)
-Insertion: Linked Lists: O(1)
+- Indexing: Linked Lists: O(n)
+- Search: Linked Lists: O(n)
+- Optimized Search: Linked Lists: O(n)
+- Insertion: Linked Lists: O(1)
 
 ## Hash Table or Hash Map 
 
@@ -68,9 +68,9 @@ Insertion: Linked Lists: O(1)
 
 #### Big O efficiency:
 
-Indexing: Hash Tables: O(1)
-Search: Hash Tables: O(1)
-Insertion: Hash Tables: O(1)
+- Indexing: Hash Tables: O(1)
+- Search: Hash Tables: O(1)
+- Insertion: Hash Tables: O(1)
 
 ## Binary Tree 
 ##### Definition:
